@@ -1,0 +1,17 @@
+madre:400:5
+madre:400:5
+madre:500:5
+madre:400:5
+madre:600:5
+madre:500:5
+madre:1000:5
+madre:800:5
+madre:1100:5
+madre:500:5
+madre:600:5
+madre:700:5
+madre:400:10
+madre:700:10
+madre:400:10
+madre:2000:10
+madre:1300:10
