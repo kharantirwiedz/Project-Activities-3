@@ -1,0 +1,12 @@
+C:\Users\madre\source\repos\SnakeWPF\SnakeLogic\bin\Debug\net6.0\SnakeLogic.deps.json
+C:\Users\madre\source\repos\SnakeWPF\SnakeLogic\bin\Debug\net6.0\SnakeLogic.dll
+C:\Users\madre\source\repos\SnakeWPF\SnakeLogic\bin\Debug\net6.0\SnakeLogic.pdb
+C:\Users\madre\source\repos\SnakeWPF\SnakeLogic\obj\Debug\net6.0\SnakeLogic.csproj.AssemblyReference.cache
+C:\Users\madre\source\repos\SnakeWPF\SnakeLogic\obj\Debug\net6.0\SnakeLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\madre\source\repos\SnakeWPF\SnakeLogic\obj\Debug\net6.0\SnakeLogic.AssemblyInfoInputs.cache
+C:\Users\madre\source\repos\SnakeWPF\SnakeLogic\obj\Debug\net6.0\SnakeLogic.AssemblyInfo.cs
+C:\Users\madre\source\repos\SnakeWPF\SnakeLogic\obj\Debug\net6.0\SnakeLogic.csproj.CoreCompileInputs.cache
+C:\Users\madre\source\repos\SnakeWPF\SnakeLogic\obj\Debug\net6.0\SnakeLogic.dll
+C:\Users\madre\source\repos\SnakeWPF\SnakeLogic\obj\Debug\net6.0\refint\SnakeLogic.dll
+C:\Users\madre\source\repos\SnakeWPF\SnakeLogic\obj\Debug\net6.0\SnakeLogic.pdb
+C:\Users\madre\source\repos\SnakeWPF\SnakeLogic\obj\Debug\net6.0\ref\SnakeLogic.dll
